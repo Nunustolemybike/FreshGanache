@@ -26,3 +26,7 @@ _IMPORTANT_ : This list of materials is godly. You need to send a Pull Request b
 ## GANACHE IS LIFE :heart_eyes:
 
 _ You need to respect the ganache.... _ :facepunch:
+
+
+**Last important thing :**
+_The ganache might make you become fat if you don't love it enough, take caution._
