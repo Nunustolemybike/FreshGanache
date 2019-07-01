@@ -1,8 +1,8 @@
-# Contributing to DotVoid
+# Contributing to Fresh Ganache :cake:
 
-Thanks a lot for contributing to the DotVoid community project!  
+Thanks a lot for contributing to the delicious Fresh Ganache community project!  
 
-In this document, you will find guidelines explaining how to contribute to DotVoid.
+In this document, you will find guidelines explaining how to contribute to Fresh Ganache.
 
 ## Table of contents
 
