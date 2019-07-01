@@ -17,3 +17,12 @@ _ **Biological** and **eco-friendly** ingredients **only** _
 	* Milk :
 		* 15 cl of liquid full cream.
 		* 200 grams of chocolate.
+
+_IMPORTANT_ : This list of materials is godly. You need to send a Pull Request before you even think about changing it, we'll analyse your request and tell you if this is acceptable.
+
+
+## GANACHE IS STRONG :muscle:
+## GANACHE IS FRESH :yum:
+## GANACHE IS LIFE :heart_eyes:
+
+_ You need to respect the ganache.... _ :facepunch:
